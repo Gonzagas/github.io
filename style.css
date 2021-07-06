@@ -1,0 +1,22 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 20px;
+    margin:auto;
+}
+.section {
+    width: 1440px;
+    margin: auto;
+}
+
+.desc-left {
+  background: white;
+  border: 1px solid blue;
+  padding: 20px;
+  border-radius: 20px;
+  width: 41.59%;
+  margin: 2%;
+}
+img {
+  width: 100%;
+}
